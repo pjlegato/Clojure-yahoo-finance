@@ -143,5 +143,5 @@ actually make more free RAM available to the JVM.
          (finally
           (.. httpClient getConnectionManager shutdown)
           (.shutdown threadPool)))
-       ))))
+      )))
     
