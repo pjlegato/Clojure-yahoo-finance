@@ -1,4 +1,4 @@
-(defproject clojure-httpclient "1.0.0-SNAPSHOT"
+(defproject clojure-yahoo-finance "1.0.0-SNAPSHOT"
   :description "Clojure client for Yahoo! Finance historic data"
   :dependencies [[org.clojure/clojure "1.1.0"]
                  [org.clojure/clojure-contrib "1.1.0"]
